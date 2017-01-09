@@ -93,10 +93,14 @@ Part of a 2-person backcountry crew working on a federally threatened Sierra/Mou
 
 # TEACHING
 
-*Instructor, Software/Data Carpentry* \hfill 2016
+*Instructor, Software/Data Carpentry* \hfill 2016, 2-3 wknds/yr
 
 > Teach researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done using open source and reproducible tools. Specifically, have taught ecology/natural science and genomics workshops at Stanford, UC Davis, UC Berkeley, and University of Rhode Island Coastal Institute. (http://software-carpentry.org/) (http://www.datacarpentry.org/)
   
+*Davis R-Users Group, Co-Coordinator, University of California Davis* \hfill 2014--present, 3 hrs/wk
+
+> Weekly 2-hour meeting to provide presentation, instruction, help, and work session for anyone working in R. Also help manage & coordinate meetings, presentations, and email list-serve. (https://d-rug.github.io/).
+
 *Co-Instructor, Ecogeomorphology, University of California Davis* \hfill 2015, 10 hrs/wk
 
 > Taught advanced undergraduate students to multidisciplinary collaborative watershed and stream analysis through combined laboratory and field study of a selected stream system. Educated students from diverse backgrounds to work in interdisciplinary research teams to collect and analyze field data from the Tuolumne River system. Guided, lectured, and taught in classroom, lab, and field, including a 3 day rafting trip on the Tuolumne River.
@@ -126,7 +130,7 @@ Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii
 
 # PUBLIC MEDIA
 
-“The Aggie Brickyard.” Co-Founder & Design Editor,  2015--present.  
+“The Aggie Brickyard.” Co-Founder & Design Editor,  2015--present (2 hrs/wk).  
 
 > https://aggiebrickyard.github.io *A quarterly magazine publication inspired and created solely by graduate students to serve as a conduit among students and faculty, and allowing us to bridge knowledge gaps and leverage the diversity of expertise we have here at UC Davis.*
 
@@ -156,6 +160,7 @@ Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii
 
 # PROFESSIONAL AFFILIATIONS & TRAINING	  
 
+  - Undocu-Ally Educator, 2016--present (http://education.ucdavis.edu/educator-event/undocu-ally-program-educators)
   - CDFW Scientific Collecting Permit #6881
   - Software & Data Carpentry Instructor
   - Davis R-Users Group - Co-Administrator
