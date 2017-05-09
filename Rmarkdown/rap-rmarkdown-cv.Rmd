@@ -62,11 +62,17 @@ urlcolor: blue
 
 # TEACHING
 
+*Instructor, Data Wrangling for Ecologists, GGE 298, University of California Davis* \hfill Winter Quarter 2017
+
+> Teach 25+ graduate students in ecology how to use R to interact with data including: data structure, version control, and programming for data manipulation, analysis, and visualization. Built website and made course materials openly available on github. (https://gge-ucd.github.io/wRangling-Ecology/) (https://github.com/gge-ucd/wRangling_Seminar).
+
+
+# 
+
 *Instructor, Software/Data Carpentry* \hfill 2016
 
 > Teach researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done using open source and reproducible tools. Specifically, have taught ecology/natural science workshops at UC Davis, UC Berkeley, and University of Rhode Island Coastal Institute. (http://software-carpentry.org/) (http://www.datacarpentry.org/)
 
-# 
   
 *Co-Instructor, Ecogeomorphology, University of California Davis* \hfill 2015
 
@@ -80,7 +86,9 @@ urlcolor: blue
 
 ## **Journal Articles**
 
-Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* *__in prep__*.
+Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* *__in review__*.
+
+Milner, V.S., R.A. Peek, S.M. Yarnell. 2017. "The ecological importance of unregulated tributaries to benthic invertebrate communities in a regulated river." *Hydrobiologia* *__in review__*
 
 Yarnell, S., R. Peek, G. Epke and A. Lind. 2016. "Management of the Spring Snowmelt Recession in Regulated Systems." *JAWRA Journal of the American Water Resources Association* 52(3): 723--736.
 
@@ -111,6 +119,8 @@ Kupferberg, S.J., W.J. Palen, A.J. Lind, S. Bobzien, A. Catenazzi, J. Drennan, a
 Knapp, R.A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish results in population expansion of a declining amphibian (mountain yellow-legged frog, *Rana muscosa*)." *Biological Conservation* 135(1): 11--20. 
 
 # PRESENTATIONS
+
+**2017. Peek, R. A., M. R. Miller.** "Application of new genomic sequencing methods to assess effects of river regulation on population structure and diversity in a hydrologically sensitive species (Rana boylii)." Amphibian Population Task Force (APTF), Santa Barbara, 12--13 Jan.
 
 **2016. Peek, R., S. Yarnell, D. Waetjen, D. Weixelman.** "Using and Updating the UC Sierra Nevada Meadows Data Clearinghouse: Leveraging Remote Sensing and Field Data to Assess Resiliency." Natural Areas Conference, Davis 18--20 Oct.
 
