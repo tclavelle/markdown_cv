@@ -69,6 +69,11 @@ urlcolor: blue
 
 # 
 
+*Instructor, Introduction to R at DIBSI* \hfill 2017
+
+> Data Intensive Biology Summer Institute at UC Davis is a series of week-long workshops for biologists to learn bioinformatics and data science. The Introduction to R course was built as an interactive, week-long introduction to the programming language R. Taught the basics of R by writing code together to understand input, organization, and summarization of data in R. Also covered data visualization and creation of publication-quality plots and dynamic documents that combine descriptive writing with the results of your code. (https://mikoontz.github.io/data-carpentry-week/)
+
+
 *Instructor, Software/Data Carpentry* \hfill 2016
 
 > Teach researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done using open source and reproducible tools. Specifically, have taught ecology/natural science workshops at UC Davis, UC Berkeley, and University of Rhode Island Coastal Institute. (http://software-carpentry.org/) (http://www.datacarpentry.org/)
@@ -86,9 +91,9 @@ urlcolor: blue
 
 ## **Journal Articles**
 
-Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* *__in review__*.
-
 Milner, V.S., R.A. Peek, S.M. Yarnell. 2017. "The ecological importance of unregulated tributaries to benthic invertebrate communities in a regulated river." *Hydrobiologia* *__in review__*
+
+Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* *__in press__*.
 
 Yarnell, S., R. Peek, G. Epke and A. Lind. 2016. "Management of the Spring Snowmelt Recession in Regulated Systems." *JAWRA Journal of the American Water Resources Association* 52(3): 723--736.
 
@@ -107,6 +112,8 @@ Yarnell, S., A. Lind, C. Bondi, R. Peek, and J. Mount. 2011. "Validation of Regi
 Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii*) in regulated and unregulated rivers: Assessing connectivity and genetic fragmentation." Master’s Thesis, Biology Department. University of San Francisco, CA. 69 pp.
 
 ## **Acknowledged**
+
+Catenazzi, A., S. J. Kupferberg. 2017. Variation in thermal niche of a declining river-breeding frog: From counter-gradient responses to population distribution patterns. *Freshwater Biology* 62(7):1255--1265. DOI: 10.1111/fwb.12942
 
 Thomson, R.C., A.N. Wright, H.B. Shaffer. 2016. California Amphibian and Reptile Species of Special Concern. University of California Press.
 
