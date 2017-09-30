@@ -7,7 +7,7 @@ geometry: margin=1in
 
 title: "Resume"
 author: Ryan A. Peek
-
+orcid: "orcid.org/0000-0002-9577-6885"
 jobtitle: "PhD Candidate, Ecology, UC Davis"
 address: "1000 Tulip Lane · Davis · CA 95618"
 fontawesome: yes
@@ -97,7 +97,7 @@ Part of a 2-person backcountry crew working on a federally threatened Sierra/Mou
 
 > Teach researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done using open source and reproducible tools. Specifically, have taught ecology/natural science and genomics workshops at Stanford, UC Davis, UC Berkeley, and University of Rhode Island Coastal Institute. (http://software-carpentry.org/) (http://www.datacarpentry.org/)
   
-*Davis R-Users Group, Co-Coordinator, University of California Davis* \hfill 2014--present, 3 hrs/wk
+*Davis R-Users Group, Coordinator, University of California Davis* \hfill 2014--present, 2 hrs/wk
 
 > Weekly 2-hour meeting to provide presentation, instruction, help, and work session for anyone working in R. Also help manage & coordinate meetings, presentations, and email list-serve. (https://d-rug.github.io/).
 
@@ -119,6 +119,8 @@ Part of a 2-person backcountry crew working on a federally threatened Sierra/Mou
 
 # PUBLICATIONS
 
+Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* 1–-15. DOI: 10.1111/fwb.12994.
+
 Yarnell, S., R. Peek, G. Epke and A. Lind. 2016. "Management of the Spring Snowmelt Recession in Regulated Systems." *JAWRA Journal of the American Water Resources Association* 52(3): 723--736.
 
 Grantham, T., K. Fesenmeyer, R. Peek, E. Holmes, A. Bell, R. Quiñones, N. Santos, J. Howard, J. Viers, P. Moyle. 2016. "Missing the boat on freshwater fish conservation in California." *Conservation Letters* 10.1111/conl.12249.
@@ -130,7 +132,7 @@ Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii
 
 # PUBLIC MEDIA
 
-“The Aggie Brickyard.” Co-Founder & Design Editor,  2015--present (2 hrs/wk).  
+“The Aggie Brickyard.” Co-Founder / Editor / Designer,  2015--present (2 hrs/wk).  
 
 > https://aggiebrickyard.github.io *A quarterly magazine publication inspired and created solely by graduate students to serve as a conduit among students and faculty, and allowing us to bridge knowledge gaps and leverage the diversity of expertise we have here at UC Davis.*
 
@@ -160,14 +162,14 @@ Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii
 
 # PROFESSIONAL AFFILIATIONS & TRAINING	  
 
-  - Undocu-Ally Educator, 2016--present (http://education.ucdavis.edu/educator-event/undocu-ally-program-educators)
+  - Undocu-Ally Educator, 2016--present
   - CDFW Scientific Collecting Permit #6881
   - Software & Data Carpentry Instructor
-  - Davis R-Users Group - Co-Administrator
+  - Davis R-Users Group - Coordinator
+  - Data Science Initiative Affiliate (http://dsi.ucdavis.edu/affiliates.html)
   - American Society of Ichthyologists and Herpetologists (ASIH)
   - Society for Study of Amphibians and Reptiles (SSAR)
-  - Ecology Society of America (ESA)
-  - Society for Freshwater Science (SFS)
+  - Ecology Society of America (ESA) | Society for Freshwater Science (SFS)
   - Whitewater Rafting Guide, Outdoor Adventures, UC Davis, 2013--present
   - Wilderness First Aid, Outdoor Adventures, UC Davis, 2015
   - River Rescue Certification, Sierra Rescue/Rescue 3 International, Coloma CA, 2013
