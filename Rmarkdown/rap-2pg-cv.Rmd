@@ -36,23 +36,27 @@ urlcolor: blue
 
 *Center for Watershed Sciences, UC Davis:*
 
- > Graduate Student Researcher \hfill 2014--present
+ > Graduate Student Researcher \hfill  2014--present
 
- > Jr. Research Specialist \hfill 2011--2014
+ > Jr. Research Specialist \hfill  2011--2014
 
 *USDA Forest Service, Pacific Southwest Research Station:*
 
- > Biological Science Technician \hfill 2010
+ > Biological Science Technician \hfill  2010
 
 *Stillwater Sciences:*
 
- > Fish & Wildlife Biologist \hfill 2002-–2011
+ > Fish & Wildlife Biologist \hfill  2002--2011
 
 *National Park Service (Sequoia & Kings Canyon):*
 
- > Biological Science Technician \hfill 2001  
+ > Biological Science Technician \hfill  2001  
 
 # TEACHING
+
+*Instructor, R for Data Analysis and Visualization in Science* \hfill 2017-2018
+
+> Lead instructor for graduate course teaching R and version control. Course designed to train students in toolsets applicable to the entire process of reproducible data-driven research and encourage the use of open-source tools. (https://gge-ucd.github.io/R-DAVIS/).
 
 *Instructor, Software/Data Carpentry* \hfill 2016
 
@@ -62,9 +66,7 @@ urlcolor: blue
 
 > Taught undergraduate course inmultidisciplinary collaborative watershed and stream analysis through combined laboratory and field study of the Tuolumne Watershed. Guided, lectured, and taught in classroom, lab, and field.
 
-# PUBLICATIONS
-
-## **Journal Articles**
+# SELECTED PUBLICATIONS
 
 Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. 2017. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* 1–-15. DOI: 10.1111/fwb.12994.
 
@@ -74,19 +76,11 @@ Grantham, T., K. Fesenmeyer, R. Peek, E. Holmes, A. Bell, R. Quiñones, N. Santo
 
 Howard, J.K., K.R. Klausmeyer, K.A. Fesenmyer, J. Furnish, T. Gardali, T. Grantham, J.V. Katz, S. Kupferberg, P. McIntyre, P.B. Moyle, P.R. Ode, R. Peek, R.M. Quinones, A.C. Rehn, N. Santos, S. Schoenig, L. Serpa, J.D. Shedd, J. Slusark, J.H. Viers, A. Wright and S.A. Morrison. 2015. "Patterns of Freshwater Species Richness, Endemism, and Vulnerability in California." *PLoS One* 10(7): e0130710.
 
-## **Other Publications**
-
 Yarnell, S.M, R.A. Peek, D.E. Rheinheimer, A.J. Lind, and J.H. Viers. 2013. "Management of the Spring Snowmelt Recession: An Integrated Analysis of Empirical, Hydrodynamic, and Hydropower Modeling Applications." Final Report. California Energy Commission. Publication number: CEC-500-2013. 137 pp.
 
 Viers, J.H., SE Purdy, R.A. Peek, A. Fryoff-Hung, N.R. Santos, J.V.E. Katz, J.D. Emmons, D.V. Dolan, and S.M. Yarnell. 2013. "Montane Meadows in the Sierra Nevada: Changing Hydroclimatic Conditions and Concepts for Vulnerability Assessment." Center for Watershed Sciences Technical Report (CWS-2013-01), University of California, Davis. 63 pp.
 
 Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii*) in regulated and unregulated rivers: Assessing connectivity and genetic fragmentation." Master’s Thesis, Biology Department. University of San Francisco, CA. 69 pp.
-
-# PRESENTATIONS
-
-**2016. Peek, R., S. Yarnell, D. Waetjen, D. Weixelman.** "Using and Updating the UC Sierra Nevada Meadows Data Clearinghouse: Leveraging Remote Sensing and Field Data to Assess Resiliency." Natural Areas Conference, Davis 18--20 Oct.
-
-**2016. Peek, R., H. Dahlke, and S. Yarnell.** "Linking Water Source Signatures with Native Amphibian Breeding Timing in a Northern Sierra Nevada Watershed." Society for Freshwater Science Annual Meeting, Sacramento 21--26 May.
 
 # PUBLIC MEDIA
 
