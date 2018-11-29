@@ -1,0 +1,52 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=0.75in
+
+title: "Cover Letter - IEc"
+author: Tyler S. Clavelle
+jobtitle: "Project Researcher, Sustainable Fisheries Group"
+address: "1324 B San Andres St. · Santa Barbara · CA 93101"
+fontawesome: yes
+email: tyler.clavelle@gmail.com
+github: tclavelle
+phone: "802 578-8701"
+web: tylerclavelle.com
+updated: no
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\vspace{20px}    
+    
+November 14th, 2018  
+
+\vspace{10px}    
+    
+Hiring Manager  
+Industrial Economics, Incorporated  
+2067 Massachusetts Ave   
+Cambridge, MA 02140 
+
+\vspace{20px}        
+
+Dear Hiring Manager,
+
+I am a highly motivated researcher with an educational background in natural science and economics and over four years of experience in quantitative solutions to applied environmental problems. I was very excited to learn of IEc's opening for Associate because I believe the position is a perfect fit for my blend of technical skills and environmental expertise. 
+
+During my education, I focused on learning the multidisciplinary skills necessary to apply creative and data-driven solutions to pressing environmental and social challenges. As an undergraduate, my double major in biology and economics exposed me to the importance of natural resources and to the economic incentives that can lead to their exploitation. My masters curriculum built upon this knowledge and was rigorous, quantitative, and highly collaborative, including coursework in natural resource economics, cost-benefit analysis, GIS, and environmental policy analysis. As a graduate student I also developed an aptitude for programming and was hired following graduation to develop and apply quantitative analyses to issues of marine conservation.
+
+In my professional experience, I've shown that I am a fast learner who excels in both a collaborative setting and as an independent contractor. My projects often involve a considerable amount of data analysis, primarily in R or Python, including data processing, statistical modeling, and visualization. For my work with fisheries, I've used regression, bioeconomic models, and optimization to evaluate the environmental and economic outcomes of various management strategies. Similarly, I helped develop data collection and management protocols for a large fishery conservation program and assisted initial program evaluation efforts. I am also experienced working with spatial data, which I've leveraged in several economic analyses of marine resources and aquaculture development in the Caribbean. For all my projects, a critical step is distilling complex analyses into clear and concise deliverables that can be easily understood by a range of audiences. In addition to my technical and communication skills, I bring a team building approach to my work, leading programming tutorials, developing best practices for data management, and managing our team's collaboration platforms like Slack and GitHub.
+
+I believe strongly in supporting more informed environmental decision making and have delivered robust environmental analyses  to a variety of clients, including NGOs, government agencies, and top academic journals. I am confident that my technical skills, environmental knowledge, and work ethic are a great fit for the Associate position at IEc and look forward to discussing the opportunity with you further.
+
+\vspace{20px} 
+
+Sincerely,  
+Tyler Clavelle

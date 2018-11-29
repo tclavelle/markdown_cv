@@ -1,0 +1,53 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=0.75in
+
+title: "Cover Letter - Apeel Sciences"
+author: Tyler S. Clavelle
+jobtitle: "Project Researcher, Sustainable Fisheries Group"
+address: "1324 B San Andres St. · Santa Barbara · CA 93101"
+fontawesome: yes
+email: tyler.clavelle@gmail.com
+github: tclavelle
+phone: "802 578-8701"
+web: tylerclavelle.com
+updated: no
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\vspace{20px}    
+    
+October 5th, 2018  
+Shaina Semiatin
+
+\vspace{10px}    
+    
+Shaina Semiatin  
+Apeel Sciences  
+71 South Los Carneros Road   
+Goleta, California 93117  
+
+\vspace{20px}        
+
+Dear Ms. Semiatin,
+
+I am a highly motivated data scientist in Santa Barbara with an educational background in environmental science and economics and over four years of data science experience in a dynamic work environment. I was very excited to learn of the opening for Data Scientist because I believe the position is a perfect fit for my unique blend of technical skills and environmental expertise. 
+
+As a graduate of UC Santa Barbara's Bren School of Environmental Science & Management, I am a professional dedicated to developing creative data-driven solutions to pressing environmental and social challenges. My masters coursework was rigorous, quantitative, and interdisciplinary and introduced me to programmatic data analysis. For my thesis group project, I helped develop a spatial bioeconomic model in R to asses the cost-effectiveness of repurposing fishery waste in communities in Mexico. Recognizing my aptitude for working with data, I was hired following graduation by my current employer, UCSB's Sustainable Fisheries Group (SFG), to develop and apply quantitative analyses to issues of marine conservation.
+
+In my professional experience, I've shown that I am a fast learner with skills across many facets of data science, working in both R and Python. For my work on global fisheries, I've cleaned, processed, and synthesized numerous biological and economic datasets that have been used in peer-reviewed publications. I've used regression, machine learning, and bioeconomic models to predict fishery conditions, optimization to choose harvest strategies, and Monte Carlo simulations to understand uncertainty. I am also experienced working with spatial data. Most recently, I built a pipeline in Python to process over 30 GB of satellite images and trained a computer vision model to detect aquaculture farms in the curated dataset. In addition to my technical skills, I bring a collaborative and team oriented approach to my work. At SFG, I designed coding tutorials and helped author an internal R package to allow SFG researchers to apply models I developed to other projects. 
+
+I believe strongly in the mission of creating a more sustainable global food system and am very excited that Apeel recognizes the key role data science can play. I am confident that my technical skills, environmental knowledge, and work ethic are a great fit for the Data Scientist position at Apeel Sciences and look forward to discussing the opportunity with you further.
+
+\vspace{10px} 
+
+Sincerely,  
+Tyler Clavelle

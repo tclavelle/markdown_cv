@@ -1,0 +1,50 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=0.75in
+
+title: "Cover Letter - Global Fishing Watch"
+author: Tyler S. Clavelle
+jobtitle: "Project Researcher, Sustainable Fisheries Group"
+address: "1324 B San Andres St. · Santa Barbara · CA 93101"
+fontawesome: yes
+email: tyler.clavelle@gmail.com
+github: tclavelle
+phone: "802 578-8701"
+web: tylerclavelle.com
+updated: no
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\vspace{20px}    
+    
+November 28th, 2018  
+
+\vspace{10px}    
+    
+Hiring Manager  
+Global Fishing Watch  
+
+\vspace{20px}        
+
+Dear Hiring Manager,
+
+As a current researcher with Global Fishing Watch's research partner, the Sustainable Fisheries Group (SFG) at the University of California, Santa Barbara, I have followed GFW closely since 2015. I was very excited to learn of the opening for Fisheries Analyst (Transshipment) with GFW because I believe the position is a perfect fit for my skill set, fisheries expertise, and career goals. 
+
+During my education, I focused on learning the multidisciplinary skills necessary to apply creative and data-driven solutions to pressing marine conservation challenges. My undergraduate degree in biology and economics exposed me to the importance of natural resources and to the economic incentives that can lead to their exploitation. My masters curriculum built upon this knowledge and was rigorous, quantitative, and highly collaborative. As a graduate student I also developed an aptitude for programming and was hired by SFG following graduation to conduct quantitative analyses of global fisheries.
+
+In my professional career, I've shown that I am a fast learner who can both work with a high degree of independence as well as excel in a collaborative setting. My projects involve a considerable amount of data analysis, primarily in R or Python, including data processing, statistical modeling, and visualization. For my work with fisheries, I synthesized multiple data sources into comprehensive datasets of global fisheries and have evaluated the environmental and economic outcomes of various management strategies at the global level and for targeted country assessments. Similarly, I helped develop data collection and management protocols for a large fishery conservation program and assisted initial program evaluation efforts. I am also experienced working with spatial data, which I've leveraged in several economic analyses of marine resources and aquaculture development in the Caribbean. Finally, a critical step for all my projects is distilling complex analyses into clear and concise deliverables that can be easily understood by a range of audiences.   
+
+I believe strongly in working towards a more transparent and accountable fishing industry. Furthermore, I am well versed in the many challenges to properly managing global fisheries, including the key issue of transshipment. I have delivered robust fisheries analyses to a variety of clients, including NGOs, government agencies, and top academic journals. I am confident that my technical skills, domain knowledge, and work ethic are a great fit for the Fisheries Analyst (Transshipment) position at Global Fishing Watch and look forward to discussing the opportunity with you further.
+
+\vspace{20px} 
+
+Sincerely,  
+Tyler Clavelle

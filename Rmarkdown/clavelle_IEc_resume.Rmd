@@ -1,0 +1,77 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=0.5in
+
+title: "Resume"
+author: Tyler S. Clavelle
+jobtitle: "Project Researcher, Sustainable Fisheries Group"
+address: "1324 B San Andres St. · Santa Barbara · CA 93101"
+fontawesome: yes
+email: tyler.clavelle@gmail.com
+github: tclavelle
+phone: "802 578-8701"
+web: tylerclavelle.com
+updated: no
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# OBJECTIVE
+
+Multidisciplinary researcher with four years of experience designing, executing, and communicating quantitative analyses for various audiences. I am a fast learner who excels at using programming, modeling, and visualization to elicit insight from diverse data sets.
+
+# EDUCATION
+
+*Bren School of Environmental Science & Mangement, University of California, Santa Barbara* \hfill 2014   
+Master of Environmental Science and Management (MESM) 
+  
+*Bucknell University*  \hfill 2009  
+B.A. Economics & Biology, *cum laude* 
+
+# EMPLOYMENT
+
+*Sustainable Fisheries Group (SFG), University of California, Santa Barbara:* \hfill 2014 - present    
+**Project Researcher** \hfill 
+  
+  - Synthesized multiple data sources into a comprehensive dataset of global fisheries. Modeled biological and economic outcomes of various management policies for all 4,700 individual fisheries, including optimizing for profits
+  - Built a suitability analysis and spatial bioeconomic model to estimate offshore aquaculture production in the Caribbean
+  - Conducted an economic valuation of marine resources in The Bahamas, using ArcGIS to map and quantify habitat types
+  - Supported data collection, management, and program evaluation efforts of a large-scale fishery conservation program
+  - Published a novel method and global dataset of fish prices estimated from existing public data sources
+  - Developed a data pipeline to process and annotate a 30 GB dataset of satellite images. Trained a machine learning model to detect aquaculture farms in satellite images
+  - Communicating complex analyses to diverse audiences via peer-reviewed publications, white papers, technical reports, and interactive dashboards 
+  
+\vspace{20px}
+  
+*MER Consultants LLC:* \hfill 2017  
+**Independent Contractor** 
+ 
+ - Built a bioeconomic model to evaluate management options for the Philippine's sardine fishery 
+ - Developed an interactive decision support tool (web application) for the client
+ 
+# TECHNICAL SKILLS
+**Programming** - R (5 years); Python (2 years); SQL; Google Earth Engine  
+**Tools** - RStudio; ArcGIS; GitHub; Jupyter Notebooks; Shiny Web Applications
+
+# PUBLICATIONS
+
+Froehlich HE, Jacobsen NS, Essingtington TE, **Clavelle T**, Halpern BS. (2018). Avoiding the ecological limits of forage fish for aquaculture. *Nature Sustainability*, 1(6), 298.
+
+Burgess MG, McDermott GR, Owashi B, Peavey Reeves LE, **Clavelle T**, Ovando D, Wallace BP, Lewison RL, Gaines SD, Costello C. Protecting marine mammals, turtles, and birds by rebuilding global fisheries. (2018). *Science*, 359(6381), 1255-1258. 
+
+Costello C, Ovando D, **Clavelle T**, et al. (2016). Global fishery prospects under contrasting management regimes. *Proceedings of the National Academy of Sciences*, 201520420.
+
+Melnychuk MC, **Clavelle T**, Owashi B, & Strauss CK. (2016). Re-construction of global ex-vessel prices of fished species. *ICES Journal of Marine Science*. doi: 10.1093/icesjms/fsw169.
+
+**Clavelle T**, Lester SE, Gentry R, Froehlich HE. (in review). Interactions and management for the future of marine aquaculture and capture fisheries.
+
+Thomas L, **Clavelle T**, Lester SE, Klinger DH. (in review). Charting an aquaculture future for the Caribbean.
+
+Szuwalski CS, Xianshi J, Xiujuan S, **Clavelle T** (in review). Seafood security via intense exploitation and cultivation: costs, benefits, and risks
